@@ -29,8 +29,8 @@ The program consists of three separate programs: <br><br>
 </p>
 <h3>Method used: </h3>
 <ul>
-  <li>DownloadFile from System.Net.WebClient Class</li>
-  <li>GetFullPath from Path Class</li>
+  <li><code>DownloadFile</code> from <code>System.Net.WebClient Class</code></li>
+  <li><code>GetFullPath</code> from <code>Path Class</code></li>
 </ul>
 <h3>Program walk-through</h3>
 <p align="center">
@@ -58,8 +58,8 @@ By providing a short file name - it is saved in the program location: <br/>
 </p>
 <h3>Method used: </h3>
 <ul>
-  <li>Navigate from the control WebBrowser</li>
-  <li>StartWith from class String</li>
+  <li><code>Navigate</code> from the control <code>WebBrowser</code></li>
+  <li><code>StartWith</code> from class <code>String</code></li>
 </ul>
 <h3>Program walk-through</h3>
 <p align="center">
@@ -80,21 +80,21 @@ Provide the website address and click start: <br/>
 </p>
 <p><b>Method used:</b></p>
 <ul>
-  <li>GetHostName from the Dns class in the System.Net namespace</li>
-  <li>IPAddress class in the System.Net namespace</li>
-  <li>GetHostByName method from the Dns class returning the AddressList collection</li>
+  <li><code>GetHostName</code> from the Dns class in the <code>System.Net</code> namespace</li>
+  <li><code>IPAddress</code> class in the <code>System.Net</code> namespace</li>
+  <li><code>GetHostByName</code> method from the Dns class returning the <code>AddressList</code> collection</li>
 </ul>
 <p>2. The program searches for a foreign IP address according to the given name.</p>
 <p><b>Method used:</b></p>
 <ul>
-  <li>GetHostEntry from the Dns class in the spaceSystem.Net returns an AddressList collection</li>
-  <li>Trim method of the String class that allows to remove leading and trailing blanks</li>
+  <li><code>GetHostEntry</code> from the Dns class in the <code>spaceSystem.Net</code> returns an <code>AddressList</code> collection</li>
+  <li><code>Trim</code>method of the <code>String</code> class that allows to remove leading and trailing blanks</li>
 </ul>
 <p>3. Search for a foreign name by given address</p>
 <p><b>Method used:</b></p>
 <ul>
-  <li>GetHostEntry method from the Dns class in the System.Net namespace returning the HostName property</li>
-  <li>Trim method of the String class that allows to remove leading and trailing blanks</li>
+  <li><code>GetHostEntry</code> method from the Dns class in the <code>System.Net</code> namespace returning the <code>HostName</code> property</li>
+  <li><code>Trim</code> method of the <code>String class</code> that allows to remove leading and trailing blanks</li>
 </ul>
 <h3>Program walk-through</h3>
 <p align="center">
