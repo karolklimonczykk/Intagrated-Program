@@ -76,7 +76,7 @@ Provide the website address and click start: <br/>
 <h2>Searching for server names and addresses</h2>
 <h3> Description </h3>
 <p>
--  The program searches for its own name and IP address.
+1. The program searches for its own name and IP address.
 </p>
 <p><b>Method used:</b></p>
 <ul>
@@ -84,13 +84,13 @@ Provide the website address and click start: <br/>
   <li>IPAddress class in the System.Net namespace</li>
   <li>GetHostByName method from the Dns class returning the AddressList collection</li>
 </ul>
-<p>-  The program searches for a foreign IP address according to the given name.</p>
+<p>2. The program searches for a foreign IP address according to the given name.</p>
 <p><b>Method used:</b></p>
 <ul>
   <li>GetHostEntry from the Dns class in the spaceSystem.Net returns an AddressList collection</li>
   <li>Trim method of the String class that allows to remove leading and trailing blanks</li>
 </ul>
-<p>-  Search for a foreign name by given address</p>
+<p>3. Search for a foreign name by given address</p>
 <p><b>Method used:</b></p>
 <ul>
   <li>GetHostEntry method from the Dns class in the System.Net namespace returning the HostName property</li>
