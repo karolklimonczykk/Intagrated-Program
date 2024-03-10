@@ -1,0 +1,10 @@
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\bin\Debug\wndDNSIP\bin\Debug\DNSIP.exe.config
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\bin\Debug\wndDNSIP\bin\Debug\DNSIP.exe
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\bin\Debug\wndDNSIP\bin\Debug\DNSIP.pdb
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\bin\Debug\wndDNSIP\obj\Debug\wndDNSIP.csproj.AssemblyReference.cache
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\bin\Debug\wndDNSIP\obj\Debug\wndDNSIP.Form1.resources
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\bin\Debug\wndDNSIP\obj\Debug\DNSIP.Properties.Resources.resources
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\bin\Debug\wndDNSIP\obj\Debug\wndDNSIP.csproj.GenerateResource.cache
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\bin\Debug\wndDNSIP\obj\Debug\wndDNSIP.csproj.CoreCompileInputs.cache
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\bin\Debug\wndDNSIP\obj\Debug\DNSIP.exe
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\bin\Debug\wndDNSIP\obj\Debug\DNSIP.pdb

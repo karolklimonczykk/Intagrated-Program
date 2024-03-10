@@ -1,0 +1,10 @@
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\bin\Debug\IntegratedProgram.exe.config
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\bin\Debug\IntegratedProgram.exe
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\bin\Debug\IntegratedProgram.pdb
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\obj\Debug\IntegratedProgram.csproj.AssemblyReference.cache
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\obj\Debug\IntegratedProgram.Form1.resources
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\obj\Debug\IntegratedProgram.Properties.Resources.resources
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\obj\Debug\IntegratedProgram.csproj.GenerateResource.cache
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\obj\Debug\IntegratedProgram.csproj.CoreCompileInputs.cache
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\obj\Debug\IntegratedProgram.exe
+C:\Users\pls\Desktop\IntegratedProgram\IntegratedProgram\obj\Debug\IntegratedProgram.pdb
