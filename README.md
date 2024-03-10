@@ -1,4 +1,4 @@
-# Intagrated-Program
+# Intagrated Program
 <h2>Description</h2>
 The program consists of three separate programs: <br><br>
 <ul>
